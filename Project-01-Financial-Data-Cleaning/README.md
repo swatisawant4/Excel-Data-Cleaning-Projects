@@ -90,3 +90,23 @@ The final output is clean, structured, and ready for reporting, PivotTables, and
 - Financial_Data_Cleaning_PowerQuery.xlsx
 - Raw Data
 - Cleaned Data
+
+---
+
+# Project Preview
+
+## Raw Data
+
+![Raw Data](screenshots/Raw_Data.png)
+
+---
+
+## Power Query Transformation
+
+![Power Query](screenshots/Power_Query.png)
+
+---
+
+## Final Cleaned Data
+
+![Cleaned Data](screenshots/Cleaned_Data.png)
